@@ -8,14 +8,13 @@ permalink:        pretty
 
 # Setup
 title:            Jessica McGillen
-#tagline:          'A Jekyll theme'
 description:      'A researcher at the interface between disease modelling and global health policy.'
-url:              http://hyde.getpoole.com
+url:              http://jessicamcgillen.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jessica McGillen'
+  url:            https://twitter.com/jbmcgillen
 
 paginate:         5
 
@@ -23,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jessicamcgillen/website
 
 gems: [jekyll-paginate]
 
