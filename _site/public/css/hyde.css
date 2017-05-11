@@ -32,16 +32,16 @@
  */
 
 html {
-  font-family: "Georgia", Arial, sans-serif;
+  font-family: "Corbel", Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 19px;
+    font-size: 16px;
   }
 }
 
@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2.5rem 2rem;
+  padding: 3rem 3rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    width: 22rem;
     text-align: left;
   }
 }
@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 3.5rem;
 }
 
 /* Sidebar nav */
@@ -89,7 +89,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.8;
+  line-height: 2;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -123,20 +123,20 @@ a.sidebar-nav-item:focus {
 
 .content {
   padding-top:    2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    margin-left: 28rem;
+    margin-right: 4rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 24rem;
+    margin-left: 28rem;
     margin-right: 4rem;
   }
 }
